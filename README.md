@@ -4,9 +4,17 @@
 ![Recycle Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTCGGkXo16_F5p4dy8NQEzJQiic8C1hf0oLYlX764Z_qgbZXM-)    
 ## *Machine Learning* 
 ###### Computer Vision Based Sort System (CVBSS)
+First phase
+* read file - data stream (from CV camera)
+* sort/clean data (regex)
+* pattern recognition (algorithms)
+
+
+
+
 ##
 
-    
+# Background   
    
 >Romania worst in Europe for recycling, 
 >with 99 percent of waste going to landfills
@@ -17,7 +25,7 @@ https://www.romania-insider.com/romania-worst-in-europe-for-recycling-with-99-pe
 
 ## With current recycling methods
 ### It is costly inefficient to recycle 
-#### Raw new materials are cheaper than recycled
+#### Raw new materials are cheaper than recycled materials
 
 > ------------------
 >Recycling is in trouble 
