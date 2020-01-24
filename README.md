@@ -15,7 +15,8 @@
 
 https://www.romania-insider.com/romania-worst-in-europe-for-recycling-with-99-percent-of-waste-going-to-landfills
 
-## It is constly inefficient to recyle and ceaper to  use new raw materials rather than recicled
+## It is costly inefficient to recycle 
+#### Raw new materials are cheaper than recycled
 >Recycling is in trouble 
 >and it might be your fault 
 
