@@ -15,11 +15,23 @@
 
 https://www.romania-insider.com/romania-worst-in-europe-for-recycling-with-99-percent-of-waste-going-to-landfills
 
-## It is costly inefficient to recycle 
+## With current recycling methods
+### It is costly inefficient to recycle 
 #### Raw new materials are cheaper than recycled
+
+> ------------------
 >Recycling is in trouble 
->and it might be your fault 
+>and it might be your fault
+> -------------------
 
 https://eu.usatoday.com/story/news/politics/2017/04/20/weak-markets-make-consumers-wishful-recycling-big-problem/100654976/
 ![Sort](https://www.gannett-cdn.com/media/2017/04/19/USATODAY/USATODAY/636282189162779270-XXX-JJC16661.JPG?width=1080&quality=50)
+
+
+# How to overcome this problem?
+## Smarter recycling
+https://www.allerin.com/blog/using-computer-vision-and-ml-for-smarter-recycling
+
+http://www.recyclingwasteworld.co.uk/in-depth-article/what-is-compter-vision-and-how-can-it-help-the-waste-industry-ai-deep-learning/220067/
+
 
