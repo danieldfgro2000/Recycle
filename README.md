@@ -22,6 +22,7 @@ https://www.romania-insider.com/romania-worst-in-europe-for-recycling-with-99-pe
 > ------------------
 >Recycling is in trouble 
 >and it might be your fault
+>
 > -------------------
 
 https://eu.usatoday.com/story/news/politics/2017/04/20/weak-markets-make-consumers-wishful-recycling-big-problem/100654976/
@@ -33,5 +34,9 @@ https://eu.usatoday.com/story/news/politics/2017/04/20/weak-markets-make-consume
 https://www.allerin.com/blog/using-computer-vision-and-ml-for-smarter-recycling
 
 http://www.recyclingwasteworld.co.uk/in-depth-article/what-is-compter-vision-and-how-can-it-help-the-waste-industry-ai-deep-learning/220067/
+
+https://www.iotsolutionprovider.com/industrial/smart-robots-tackle-the-dirty-job-of-recycling
+
+![Computer Vision](https://www.iotsolutionprovider.com/sites/iotsolutionprovider/files/AMP_Neuron.JPG)
 
 
