@@ -5,9 +5,9 @@
 ## *Machine Learning* 
 ###### Computer Vision Based Sort System (CVBSS)
 First phase
-* read file - data stream (from CV camera)
-* sort/clean data (regex)
-* pattern recognition (algorithms)
+* read file *data stream* - 3D CAM 
+* sort data <span style="color: green"> *extract relevant* regex
+* pattern recognition * algorithms * 
 
 
 
