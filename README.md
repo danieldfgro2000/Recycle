@@ -8,6 +8,7 @@ First phase
 * read file *data stream* - 3D CAM
 
 https://www.youtube.com/watch?v=I1JUtoDHFcg
+
 https://www.youtube.com/watch?v=E1eIg54clGo
 * sort data *extract relevant* .RE
 * pattern recognition *algorithms* 
