@@ -10,8 +10,15 @@ First phase
 https://www.youtube.com/watch?v=I1JUtoDHFcg
 
 https://www.youtube.com/watch?v=E1eIg54clGo
+
 * sort data *extract relevant* .RE
 * pattern recognition *algorithms* 
+
+OpenCV
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
+
+https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html
 
 ##
 
