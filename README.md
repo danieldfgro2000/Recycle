@@ -5,6 +5,11 @@
 ## *Machine Learning* 
 ###### Computer Vision Based Sort System (CVBSS)
 First phase
+
+* data sets
+
+https://storage.googleapis.com/openimages/web/factsfigures.html
+
 * read file *data stream* - 3D CAM
 
 https://www.youtube.com/watch?v=I1JUtoDHFcg
