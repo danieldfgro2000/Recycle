@@ -1,8 +1,12 @@
 import cv2
 import numpy as np
+
+import matplotlib
+
+matplotlib.use('TkAgg')
 from matplotlib import pyplot as plt
 
-img = cv2.imread('*.jpg', 0)
+img = cv2.imread('../elephant_gray.jpeg', 0)
 edges = cv2.Canny(img, 100, 200)
 
 plt.subplot(121), plt.imshow(img, cmap='gray')
