@@ -4,9 +4,26 @@
 ![Recycle Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTCGGkXo16_F5p4dy8NQEzJQiic8C1hf0oLYlX764Z_qgbZXM-)    
 ## *Machine Learning* 
 ###### Computer Vision Based Sort System (CVBSS)
-First phase
+First phase (chose material identification method)
 
 * data sets
+
+    *   Fourier Transform Infrared Spectroscopy (FTIR)
+    
+            * rough cost estimation 40T - 145T EU
+    
+    DOCU:
+    
+      https://www.youtube.com/watch?v=DDTIJgIh86E
+      https://www.khanacademy.org/science/organic-chemistry/spectroscopy-jay/infrared-spectroscopy-theory/v/introduction-to-infrared-spectroscopy
+      https://www.youtube.com/watch?v=KRoWMB3AR3s
+
+@article{yolov3,
+  title={YOLOv3: An Incremental Improvement},
+  author={Redmon, Joseph and Farhadi, Ali},
+  journal = {arXiv},
+  year={2018}
+}
 
 https://storage.googleapis.com/openimages/web/factsfigures.html
 
