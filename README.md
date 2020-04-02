@@ -17,7 +17,13 @@ First phase (chose material identification method)
       https://www.youtube.com/watch?v=DDTIJgIh86E
       https://www.khanacademy.org/science/organic-chemistry/spectroscopy-jay/infrared-spectroscopy-theory/v/introduction-to-infrared-spectroscopy
       https://www.youtube.com/watch?v=KRoWMB3AR3s
-
+      
+            
+   
+   
+   
+   * 3DCAM
+   
 @article{yolov3,
   title={YOLOv3: An Incremental Improvement},
   author={Redmon, Joseph and Farhadi, Ali},
