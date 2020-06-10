@@ -9,7 +9,7 @@
 #### Technology
 Android Studio IDE, JAVA / KOTLIN, Firebase SDK
 
-Options to be implented:
+Options to be implemented:
 
     * Recycle Map
     * Comunity
