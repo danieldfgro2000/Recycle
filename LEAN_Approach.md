@@ -1,9 +1,9 @@
-#LEAN Approach
+# LEAN Approach
 
-####Project to be divided in 3 main parts:
+#### Project to be divided in 3 main parts:
 ###### AWARE(low)   |   PRODUCT (Mid) |  SCALE(High)
 #
-####This years INNOVATION LAB
+#### This years INNOVATION LAB ENDAVA
 #
 ### Phone App (low)
 #### Technology
@@ -55,7 +55,7 @@ http://www.bine.world/
 * Develop, maintain and improve SW
 
 
-#Materials to be recycled
+# Materials to be recycled
 
-##Plastic
-######Focus on plastic - most polluting low energy requirements to process
+## Plastic
+###### Focus on plastic - most polluting low energy requirements to process
