@@ -1,4 +1,4 @@
-#Fragmentation phase
+#LEAN Approach
 
 ####Project to be divided in 3 main parts:
 ###### AWARE(low)   |   PRODUCT (Mid) |  SCALE(High)
