@@ -28,9 +28,8 @@ Further INFO:
  Analyze capability - further development (time constraint) 
    * connect to 3D printer
    * material requirements (type and quantity)
-   * allow community to share knowledge;
-   
-   Connect to store to share bill and quickly identify used materials and how can they be recycled
+   * allow community to share knowledge;   
+   * DB - bill info - quickly identify used materials and how can they be recycled
  # 
 ### Future development (Just presentation during this years INNOVATION LAB ENDAVA) 
 #### Big Corporations Smart Recycle Bin (mid)  
