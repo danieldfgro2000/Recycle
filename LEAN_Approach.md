@@ -32,7 +32,7 @@ Further INFO:
    
    Connect to store to share bill and quickly identify used materials and how can they be recycled
  # 
-## Future development (Just presentation during this years INNOVATION LAB) 
+### Future development (Just presentation during this years INNOVATION LAB ENDAVA) 
 ### Big Corporations Smart Recycle Bin (mid)  
 
 https://www.microsoft.com/en-us/p/azure-kinect-dk/8pp5vxmd9nhq?activetab=pivot%3aoverviewtab
