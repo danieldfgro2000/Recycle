@@ -77,7 +77,7 @@ https://eu.usatoday.com/story/news/politics/2017/04/20/weak-markets-make-consume
 ## Smarter recycling
 https://www.allerin.com/blog/using-computer-vision-and-ml-for-smarter-recycling
 
-http://www.recyclingwasteworld.co.uk/in-depth-article/what-is-compter-vision-and-how-can-it-help-the-waste-industry-ai-deep-learning/220067/
+https://www.inverse.com/innovation/ai-to-transform-how-you-recycle
 
 https://www.iotsolutionprovider.com/industrial/smart-robots-tackle-the-dirty-job-of-recycling
 
