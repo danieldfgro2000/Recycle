@@ -32,6 +32,6 @@ https://www.allerin.com/blog/using-computer-vision-and-ml-for-smarter-recycling
 
 https://www.inverse.com/innovation/ai-to-transform-how-you-recycle
 
-https://www.iotsolutionprovider.com/industrial/smart-robots-tackle-the-dirty-job-of-recycling
+https://www.asme.org/topics-resources/content/how-are-robots-helping-us-to-recycle-better
 
 ![Computer Vision](https://www.iotsolutionprovider.com/sites/iotsolutionprovider/files/AMP_Neuron.JPG)
